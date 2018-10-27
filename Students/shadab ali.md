@@ -23,6 +23,7 @@ You can view my resume here.(http://shadabali.me/DigitalResume/)
 - Bootstrap
 - Materiaize
 - Angular
+- React
 - Gulp/Grunt
 
 
